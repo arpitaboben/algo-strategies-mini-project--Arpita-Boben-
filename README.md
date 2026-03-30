@@ -29,7 +29,6 @@ Real-world systems constantly face optimization challenges — delivery routing,
 ```
 algo-strategies-mini-project-<Arpita Boben>/
 ├── README.md
-├── .gitignore
 ├── notebooks/
 │   └── algo_strategies_notebook.ipynb   ← main notebook
 ├── images/
@@ -39,8 +38,7 @@ algo-strategies-mini-project-<Arpita Boben>/
 │   ├── task4_dp.png
 │   ├── task4_dp_vs_brute.png
 │   └── task5_tsp.png
-└── docs/
-    └── (optional notes)
+
 ```
 
 ---
