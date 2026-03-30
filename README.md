@@ -27,7 +27,7 @@ Real-world systems constantly face optimization challenges — delivery routing,
 ## Repository Structure
 
 ```
-algo-strategies-mini-project-<yourname>/
+algo-strategies-mini-project-<Arpita Boben>/
 ├── README.md
 ├── .gitignore
 ├── notebooks/
